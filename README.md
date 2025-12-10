@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Julia Chen(陈静)</h1>
+
+<p align="center">
+  <em>A Computer Vision Researcher & Software Engineer & Data Scientist </em>
+</p>
+
+
+
+### 🏆 Highlights
+
+- Multilingual: Mandarin (native), English (fluent)  
+- Hands-on academic experience on computer vision
+- Solid background in software engineer
+- Always learning: from scalable infra to applied ML/CV/AI
+- Goal: Become an expertise in AI product development 
+
+---
 
 <!--
 **juliachencs/juliachencs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
